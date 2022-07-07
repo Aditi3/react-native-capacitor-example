@@ -1,6 +1,6 @@
 # React Native Capacitor Adjust Example
 
-React Native Capacitor Example demonstrating usage of Adjust Cordova plugin for Ionic integration.
+React Native Capacitor Example demonstrating usage of Adjust Cordova plugin.
 
 ## Add Adjust SDK to your project 
 
@@ -17,7 +17,7 @@ npm add com.adjust.sdk
 import { Adjust, AdjustConfig, AdjustEnvironment, AdjustLogLevel, AdjustEvent } from '@awesome-cordova-plugins/adjust';
 ```
 
-##### Create Adjust Config and track an eventy 
+##### Create Adjust Config and track an event 
 
 ```
 var adjustConfig = new AdjustConfig("{YourAppToken}", AdjustConfig.EnvironmentSandbox);
