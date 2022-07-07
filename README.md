@@ -1,6 +1,6 @@
 # React Native Capacitor Adjust Example
 
-React Native Capacitor demonstrating usage of Adjust Cordova Ionic SDK integration.
+React Native Capacitor Example demonstrating usage of Adjust Cordova plugin for Ionic integration.
 
 ## Add Adjust SDK to your project 
 
